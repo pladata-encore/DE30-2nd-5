@@ -43,8 +43,8 @@
 
 - 피그마를 활용한 브레인스토밍 및 기초 플로우 기획
 ![](https://velog.velcdn.com/images/devysy55/post/e940260c-42d4-4c88-a77e-5df0e5befeb6/image.png)
-<br>
-- 구글 공유문서를 활용한 데이터 기획
+
+- 구글 공유문서를 활용한 데이터 기획 <br>
 <img src='https://velog.velcdn.com/images/devysy55/post/6ace71b5-bc5f-4058-9911-4e576ef9913a/image.png' width=500px></img>
 
 
