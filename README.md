@@ -1,5 +1,5 @@
 # 증상 기반 질병 예측 프로젝트 - 어디아파?
-
+![](https://velog.velcdn.com/images/devysy55/post/95c2a509-8b9e-4c42-91e9-4beb7879d716/image.png)
 <br />
 
 **사용언어** <br />
@@ -17,8 +17,19 @@
 **작업 툴**
    - `Jupyter Lab`
    - `VScode`
-   
-#  Members 
+
+## 목차
+
+[프로젝트 개요](https://github.com/pladata-encore/DE30-2nd-5/edit/main/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)
+
+[데이터 수집](https://github.com/pladata-encore/DE30-2nd-5/blob/main/README.md#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91)
+
+[모델링
+](https://github.com/pladata-encore/DE30-2nd-5/blob/main/README.md#%EB%AA%A8%EB%8D%B8%EB%A7%81)
+
+[App](https://github.com/pladata-encore/DE30-2nd-5/blob/main/README.md#%EB%AA%A8%EB%8D%B8%EB%A7%81)
+
+##  Members 
 | 윤소영 | 김희수 | 김민승 |  이선경|
 |---|---|---|---|
 | <img src='https://velog.velcdn.com/images/devysy55/post/3216254e-5711-4ed8-9edb-42c660ab0a7f/image.gif' width=150px></img> |  <img src='https://velog.velcdn.com/images/devysy55/post/a4f8ca44-9a19-4d2b-85db-a9718b7e7bc9/image.gif' width=150px></img> | <img src='https://velog.velcdn.com/images/devysy55/post/2c90da31-4818-4978-9fb1-c57309a21414/image.gif' width=150px></img> |<img src='https://velog.velcdn.com/images/devysy55/post/b257a753-97cf-4483-9a81-a8ffba96d3e6/image.gif' width=150px></img> |
@@ -42,15 +53,13 @@
 - 증상 기반 질병 예측 모델 제작
 
 ## 📖 프로젝트 기획
-
-- 피그마를 활용한 브레인스토밍 및 기초 플로우 기획
-![](https://velog.velcdn.com/images/devysy55/post/e940260c-42d4-4c88-a77e-5df0e5befeb6/image.png)
-
-- 구글 공유문서를 활용한 데이터 기획 <br>
-<img src='https://velog.velcdn.com/images/devysy55/post/6ace71b5-bc5f-4058-9911-4e576ef9913a/image.png' width=500px></img>
+|피그마를 활용한 브레인스토밍 및 기초 플로우 기획|구글 공유문서를 활용한 데이터 기획|
+|--|--|
+|![](https://velog.velcdn.com/images/devysy55/post/e940260c-42d4-4c88-a77e-5df0e5befeb6/image.png)|![](https://velog.velcdn.com/images/devysy55/post/6ace71b5-bc5f-4058-9911-4e576ef9913a/image.png)|
 
 
- 
+<br>
+
 ***
 # 데이터 수집
  
@@ -82,6 +91,8 @@
 
 ## 🌟파일 병합
 ### 이선경
+
+<br>
 
 ---
 # 모델링
@@ -165,7 +176,8 @@
   1. 증상을 리스트 형태로 입력받습니다.
   2. 입력받은 증상과 질병별 유사도를 구합니다.
   3. 평균 유사도가 높은 질병을 유사도 높은 순서로 정렬 후 상위 5개를 알려줍니다.
-  
+
+<br>
   
 # App
 ![](https://velog.velcdn.com/images/devysy55/post/892d6cfe-451f-477b-9b72-8d84b1453e2f/image.png)
