@@ -3,9 +3,11 @@
 <br />
 
 **사용언어** <br />
-<p align="center">  <img src="https://github.com/pladata-encore/DE30-3-personal_book_recommendation/assets/161932948/ef3a4384-7c35-45a3-a114-21f23830c499" align="center" width="32%">  <img src="https://velog.velcdn.com/images/devysy55/post/df11f6c5-2a12-40b0-80e2-6ab9baf2cbfb/image.png" align="center" width="32%">  <img src="https://velog.velcdn.com/images/devysy55/post/9b1d770b-25bc-47f0-8041-df988e35c44f/image.png" align="center" width="12%">  </p>
 
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />  
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />  
+	
 
 **사용 라이브러리**
    - `sklearn`,`konlpy`, `gensim`
