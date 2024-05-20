@@ -78,7 +78,7 @@
 #### 윤소영
 <img src='https://velog.velcdn.com/images/devysy55/post/d8b442d1-f41d-48fb-9712-a9e5fa99fdbb/image.png' width=500px>
 
-- 아산병원 질환백과의 질환별 질한 리스트에서 "증상", "관련질환", "진료과", "동의어"를 크롤링하였습니다.
+- 아산병원 질환백과의 질환별 질환 리스트에서 "증상", "관련질환", "진료과", "동의어"를 크롤링하였습니다.
 - 질병별 제공 정보의 종류가 유동적이라는 문제가 있었습니다. 이를 해결하기 위해 CSS 선택자를 복합 선택자로 구성하여 구체적인 조건을 주어 크롤링하였습니다. ex) `symptoms_elem = disease.select_one('dt:contains("증상") + dd')`
 
 
