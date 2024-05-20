@@ -20,7 +20,7 @@
 
 ## 목차
 
-[프로젝트 개요](https://github.com/pladata-encore/DE30-2nd-5/edit/main/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)
+![Untitled (3)](https://github.com/pladata-encore/DE30-2nd-5/assets/163955122/acee4bba-bc37-4fed-95de-d759d13dd482)
 
 [데이터 수집](https://github.com/pladata-encore/DE30-2nd-5/blob/main/README.md#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91)
 
