@@ -78,7 +78,7 @@
 
 + [아산병원 식이요법](https://www.amc.seoul.kr/asan/healthinfo/mealtherapy/mealTherapyList.do)
 ### 데이터 출처 근거 
-  - 다양한 질병 데이터를 찾았으나 크롤링이 안됨
+  - 다양한 질병 데이터를 찾았으나 크롤링이 막힘
   - 전문성 있는 한양대 레퍼런스인 [입력 데이터 형식 및 Positive/Negative에 따른 한국어 증상 기반 질병 예측 모델] 논문을 참고
   - 논문에 제시된 크롤링 경로인 아산병원에서 크롤링 수행 후 모델링 학습
 ### 정보 수집
