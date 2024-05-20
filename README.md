@@ -34,7 +34,7 @@
 |---|---|---|---|
 | <img src='https://velog.velcdn.com/images/devysy55/post/3216254e-5711-4ed8-9edb-42c660ab0a7f/image.gif' width=150px></img> |  <img src='https://velog.velcdn.com/images/devysy55/post/a4f8ca44-9a19-4d2b-85db-a9718b7e7bc9/image.gif' width=150px></img> | <img src='https://velog.velcdn.com/images/devysy55/post/2c90da31-4818-4978-9fb1-c57309a21414/image.gif' width=150px></img> |<img src='https://velog.velcdn.com/images/devysy55/post/b257a753-97cf-4483-9a81-a8ffba96d3e6/image.gif' width=150px></img> |
 # 프로젝트 개요
-<img src='https://velog.velcdn.com/images/devysy55/post/ceb0e670-8865-47d8-816d-99d480032e13/image.png' width=500px></img>
+<img src='https://github.com/pladata-encore/DE30-2nd-5/assets/163955122/948f8ad2-29be-4edd-8319-2017ddde4f22' width=500px></img>
 
 ## 🏣 프로젝트 소개
 질병 별 증상정보를 수집하여 수집된 데이터를 기반으로 자연어로 된 증상정보에서 증상을 추출하고 질병을 예측합니다. 예측된 질병 중 사용자가 원하는 질병의 정보를 제공합니다.
