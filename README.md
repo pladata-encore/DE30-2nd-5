@@ -82,7 +82,7 @@
   - 전문성 있는 한양대 레퍼런스인 [입력 데이터 형식 및 Positive/Negative에 따른 한국어 증상 기반 질병 예측 모델] 논문을 참고
   - 논문에 제시된 크롤링 경로인 아산병원에서 크롤링 수행 후 모델링 학습
 ### 정보 수집
-![image](https://github.com/pladata-encore/DE30-2nd-5/assets/163955122/81fa5272-fec8-439b-9cea-c7993bb85b6a)
+<img src='https://github.com/pladata-encore/DE30-2nd-5/assets/163955122/81fa5272-fec8-439b-9cea-c7993bb85b6a' width=300px>
 
   - 질병ID,질병명,증상,식이요법 등 필요한 데이터 수집
 
