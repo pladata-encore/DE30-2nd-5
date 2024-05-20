@@ -73,8 +73,8 @@
 ## ✨수집 기준
 
 ### 출처
-(입력 데이터 형식 및 Positive/Negative에 따른 한국어 증상 기반 질병 예측 모델)의 논문
-+ ![image](https://github.com/pladata-encore/DE30-2nd-5/assets/163955122/2c10676e-78bf-4d16-94c1-803601413caf)
++ (입력 데이터 형식 및 Positive/Negative에 따른 한국어 증상 기반 질병 예측 모델)의 논문
+![image](https://github.com/pladata-encore/DE30-2nd-5/assets/163955122/2c10676e-78bf-4d16-94c1-803601413caf)
 
 + [아산병원 식이요법](https://www.amc.seoul.kr/asan/healthinfo/mealtherapy/mealTherapyList.do)
 ### 데이터 출처 근거 
