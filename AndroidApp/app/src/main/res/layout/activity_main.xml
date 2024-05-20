@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5dp"
+        android:text="어디아파?"
+        android:textSize="30sp">
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:text="증상을 입력해주세요!\n의심되는 질병을 찾아드려요"
+        android:textAlignment="center"
+        android:textSize="18sp">
+    </TextView>
+
+    <EditText
+        android:id="@+id/edtSymptom"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/textbox"
+        android:hint='증상을 여러 개 입력할 땐\n","으로 구분해서 적어주세요\n\nex) 두통, 속이 메스꺼움'
+        android:textAlignment="center"
+        android:importantForAutofill="no"
+        android:inputType="text"
+        android:textSize="13sp">
+    </EditText>
+
+    <Button
+        android:id="@+id/btnSubmitSymptom"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="질병 찾기">
+    </Button>
+
+    <LinearLayout
+        android:id="@+id/loResult"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:text="입력한 증상을 분석하니..."
+            android:textAlignment="center"
+            android:textSize="18sp">
+        </TextView>
+
+        <TextView
+            android:id="@+id/txtDiseasesList"
+            android:layout_width="300dp"
+            android:layout_height="130dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="10dp"
+            android:text="sample\nsample\nsample\nsample\nsample"
+            android:background="@drawable/textbox"
+            android:textSize="13sp">
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:textAlignment="center"
+            android:text="정보를 알고싶은\n질병 번호를 입력해주세요"
+            android:textSize="18sp">
+        </TextView>
+
+        <EditText
+            android:id="@+id/edtDiseaseNo"
+            android:layout_width="300dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/textbox"
+            android:hint='질병 번호'
+            android:textAlignment="center"
+            android:importantForAutofill="no"
+            android:inputType="text"
+            android:textSize="15sp">
+        </EditText>
+
+        <Button
+            android:id="@+id/btnSubmitDisease"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="질병 정보 확인하기">
+        </Button>
+    </LinearLayout>
+</LinearLayout>
