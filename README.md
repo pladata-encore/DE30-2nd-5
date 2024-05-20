@@ -41,13 +41,14 @@
 ### 서비스 시연
 <img src='https://velog.velcdn.com/images/devysy55/post/e197b2b8-458d-4872-8c1b-209e0f90088c/image.png' width=600px></img>
 
+![Honeycam2024-05-2009-45-33-ezgif com-crop](https://github.com/pladata-encore/DE30-2nd-5/assets/161932948/f60e6b0f-0dfc-4a7d-9474-3b4f3d7d23db)
+
 <br>
 
 [PPT 링크](https://www.miricanvas.com/v/1387aah)
 
 <br>
 
-앱 영상 gif로 첨부 예정
 
 ## 💻 프로젝트 구조
 ![](https://velog.velcdn.com/images/devysy55/post/ec2abad6-0ce8-4e9c-95ea-dd4987c8d42d/image.png)
