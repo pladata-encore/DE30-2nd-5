@@ -40,7 +40,7 @@
 질병 별 증상정보를 수집하여 수집된 데이터를 기반으로 자연어로 된 증상정보에서 증상을 추출하고 질병을 예측합니다. 예측된 질병 중 사용자가 원하는 질병의 정보를 제공합니다.
 ### 서비스 시연
 <img src='https://velog.velcdn.com/images/devysy55/post/e197b2b8-458d-4872-8c1b-209e0f90088c/image.png' width=600px></img>
-
+[PPT 링크](https://www.miricanvas.com/v/1387aah)
 앱 영상 gif로 첨부
 
 ## 💻 프로젝트 구조
