@@ -186,4 +186,6 @@
 <br>
   
 # App
+![image](https://github.com/pladata-encore/DE30-2nd-5/assets/161932948/ad372e50-1765-44ac-8ad1-1d4fcb5c45b5)
+
 ![](https://velog.velcdn.com/images/devysy55/post/892d6cfe-451f-477b-9b72-8d84b1453e2f/image.png)
