@@ -98,6 +98,10 @@
 
 ### 디테일 정보 
 #### 이선경
+![증상 경과111](https://github.com/pladata-encore/DE30-2nd-5/assets/158540157/7518dbc0-1232-4d63-8a7d-a5013b97549b)
+- 아산병원 질환백과의 질환별 질환 리스트에서 세부사항인 "증상 텍스트", "경과 텍스트"를 크롤링 함
+- 크롤링 하는 과정에서 위에 이미 "증상"이라는 키워드가 있었기에 크롤링 하는데 문제가 있었음.
+- 이를 해결하기 위해 "증상 세부내용"에 대한 경로를 가져옴
 
 ## 🩺증상정보 
 #### 윤소영
@@ -115,6 +119,26 @@
 
 ## 🌟파일 병합
 ### 이선경
+* 분산되고 중복되어 있는 컬럼명을 데이터처리의 편리를 위해 병합함
+* disease_id(질병명) 기준으로 병합을 실행함
+* 컬럼
+	+ disease_id : 질병 id
+	+ disease_name : 질병명
+	+ disease_link : 질병 상세정보 링크
+	+ disease_img : 질병 대표 이미지
+	+ symptoms : 증상
+	+ symptom_ids : 증상 id
+	+ related_diseases : 관련질병
+	+ related_disease_ids : 관련질병_id
+	+ department : 진료과
+	+ synonyms : 동의어
+	+ detailed_symptoms : 증상 텍스트
+	+ disease_course : 경과 텍스트
+	+ disease_specific_diet : 질병별 식이요법
+	+ diet_therapy : 식이요법
+	+ recommended_food : 권장식품
+	+ caution_food : 주의식품
+	+ other_notes : 그 외 주의사항
 
 <br>
 
