@@ -5,18 +5,21 @@
 **사용언어** <br />
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />  
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />  
 	
+**프레임워크**
+   - `django`, `djangorestframework`
 
 **사용 라이브러리**
    - `sklearn`,`konlpy`, `gensim`
    - `pandas`, `numpy`, `csv`, `json`, `pickle`
    - `matplotlib`, `os`
+   - `gson`, `retrofit2`
    
 **작업 툴**
    - `Jupyter Lab`
    - `VScode`
+   - `Android Studio`, `Pycharm`
 
 ## 목차
 
